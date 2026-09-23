@@ -1,0 +1,4 @@
+# Default owner for everything until a second reviewer is named.
+# BRD §12 / PRD §11: a second independent human reviewer is required
+# before any live/production deployment — self-approval must not count.
+* @lavimathur1-byte
